@@ -1,2 +1,2 @@
 # My_First 
-Imersão Alura
+Imersão Alura - Imersão Inteligência Artificial
