@@ -1,1 +1,1 @@
-Imersão Alura - Porjeto feito durante a semana Imersão Inteligência Artificial na Alura.
+Imersão Alura - Projeto feito durante a semana Imersão Inteligência Artificial na Alura.
