@@ -1,2 +1,1 @@
-# My_First 
-Imersão Alura - Imersão Inteligência Artificial
+Imersão Alura - Porjeto feito durante a semana Imersão Inteligência Artificial na Alura.
